@@ -1,0 +1,17 @@
+{
+  "name": "me-polyfills",
+  "version": "1.0.0",
+  "homepage": "https://github.com/meibegger/me-polyfills",
+  "authors": [
+    "Mandana Eibegger <scripts@schoener.at>"
+  ],
+  "description": "A collection of polyfills.",
+  "keywords": [
+    "polyfills"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meibegger/me-polyfills.git"
+  }
+}

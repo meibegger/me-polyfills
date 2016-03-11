@@ -1,2 +1,4 @@
-# me-polyfills
-A collection of polyfills i tend to use
+# mePolyfills #
+
+This is just a collection of polyfills found on the web i tend to use.
+
